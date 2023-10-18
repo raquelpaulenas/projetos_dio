@@ -31,11 +31,5 @@ else:
     (xp >10000)
     print("Você é um Herói nivel Radiante!")
 
-try:
-    xp >= 0   
-
-except:
-    print("Você informou um valor invalido!")
-
 
 
